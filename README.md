@@ -41,5 +41,5 @@ O **PatrickSec AI** é um ambiente interativo construído em Python e Streamlit 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/devPatrickDavidson/SEU_REPOSITORIO.git](https://github.com/devPatrickDavidson/SEU_REPOSITORIO.git)
-   cd SEU_REPOSITORIO
+   git clone [https://github.com/devPatrickDavidson/lab-vibe-security](https://github.com/devPatrickDavidson/lab-vibe-security)
+   cd lab-vibe-security
