@@ -55,7 +55,7 @@ if user_input := st.chat_input("Digite sua dúvida aqui..."):
             try:
                 # Chamada da API sem restrição estrita de papéis e sem teto de tokens seguro
                 completion = client.chat.completions.create(
-                    model="llama-3.1-8b-instant",
+                    model="llama-3.3-70b-versatile",
                     messages=[
                         {"role": "user", "content": prompt_concatenado}
                     ]
