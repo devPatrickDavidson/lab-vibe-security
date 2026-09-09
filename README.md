@@ -92,8 +92,8 @@ O projeto submete **o mesmo modelo de inferência** (`openai/gpt-oss-20b`, via G
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/devPatrickDavidson/[NOME-DO-SEU-REPOSITORIO].git
-cd [NOME-DO-SEU-REPOSITORIO]
+git clone https://github.com/devPatrickDavidson/lab-vibe-security.git
+cd lab-vibe-security
 pip install -r requirements.txt
 cp .env.example .env   # preencha sua GROQ_API_KEY
 streamlit run app.py
