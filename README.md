@@ -1,4 +1,4 @@
-# 🛡️ PatrickSec AI — Laboratório de Segurança em Aplicações com LLM
+# 🛡️ Laboratório de Segurança em Aplicações com LLM
 
 > Laboratório interativo que compara, lado a lado, um chatbot com IA construído em modo "Vibe Coding" (sem nenhuma camada de segurança) e uma versão *hardened*, seguindo o **OWASP Top 10 for LLM Applications**.
 
